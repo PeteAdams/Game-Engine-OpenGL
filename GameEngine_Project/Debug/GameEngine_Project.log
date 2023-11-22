@@ -1,0 +1,3 @@
+﻿  Mesh.cpp
+c:\users\owner\desktop\game engine\gameengine_project\gameengine_project\engine\rendering\3d\mesh.cpp(92): warning C4018: '<': signed/unsigned mismatch
+  GameEngine_Project.vcxproj -> C:\Users\Owner\Desktop\Game Engine\GameEngine_Project\Debug\GameEngine_Project.exe
